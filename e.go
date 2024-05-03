@@ -3,10 +3,10 @@ package e
 import (
 	"fmt"
 
-	f "github.com/nobishino/gomodules-f"
+	f2 "github.com/nobishino/gomodules-f/f2"
 )
 
 func E() {
 	fmt.Println("This is gomodules-e")
-	f.F()
+	f2.F2()
 }
