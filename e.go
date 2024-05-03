@@ -4,4 +4,5 @@ import "fmt"
 
 func E() {
 	fmt.Println("This is gomodules-e")
+	f.F()
 }
